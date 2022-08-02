@@ -10,5 +10,5 @@ Some useful files with the metrics results from the research. You can find them 
 ### [Runs.txt](https://github.com/AdrysonFreitas/CRUD-Applications/blob/main/Runs.txt)
 It has all the data collected from the 10 runs from the two frameworks
 
-### [Metrics Result.pdf](https://github.com/AdrysonFreitas/CRUD-Applications/blob/main/Metrics%20Results.pdf)
+### [Metrics Results.pdf](https://github.com/AdrysonFreitas/CRUD-Applications/blob/main/Metrics%20Results.pdf)
 It has all the data collected from the 10 runs, but organized in tables and graphs for a better visualization.
