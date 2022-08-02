@@ -5,7 +5,7 @@ These CRUD applications were developed for a research project in a comparative s
 Feel free to use it as you like.
 
 ## Useful Archives
-Some useful archives with the metrics results from the research. You can find them in the [main](https://github.com/AdrysonFreitas/CRUD-Applications/main) folder.
+Some useful archives with the metrics results from the research. You can find them in the [main](https://github.com/AdrysonFreitas/CRUD-Applications/) folder.
 
 ### [Runs.txt](https://github.com/AdrysonFreitas/CRUD-Applications/main/Runs.txt)
 It has all the data collected from the 10 runs from the two frameworks
