@@ -1,0 +1,21 @@
+<h1 *ngIf="!isEdit" mat-dialog-title>Add user</h1>
+<h1 *ngIf="isEdit" mat-dialog-title>Edit user</h1>
+<div mat-dialog-content>
+  <mat-form-field appearance="fill">
+    <mat-label>Name</mat-label>
+    <input matInput [(ngModel)]="data.name">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Progress (0 to 100)</mat-label>
+    <input matInput [(ngModel)]="data.progress" type="number" min="0" max="100" >
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Fruit</mat-label>
+    <input matInput [(ngModel)]="data.fruit">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions style="display: flex;flex-direction: row;justify-content: center;width: 100%;">
+  <button mat-button class="canc" (click)="cancel()"><mat-icon>close</mat-icon> Cancel</button>
+  <button mat-button *ngIf="!isEdit" class="conf" [mat-dialog-close]="data" cdkFocusInitial><mat-icon>checkbox</mat-icon>Add</button>
+  <button mat-button *ngIf="isEdit" class="conf" [mat-dialog-close]="data" cdkFocusInitial><mat-icon>checkbox</mat-icon>Edit</button>
+</div>

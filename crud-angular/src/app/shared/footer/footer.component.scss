@@ -1,0 +1,11 @@
+@import './src/styles.scss';
+
+$primary: map-get($my-theme, primary, 500);
+
+.container{
+    padding: 20px 5%;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(231, 231, 231);
+    color: $primary;
+}

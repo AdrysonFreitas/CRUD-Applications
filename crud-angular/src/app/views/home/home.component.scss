@@ -1,0 +1,36 @@
+@import './src/styles.scss';
+
+$primary: map-get($my-theme, primary, 500);
+
+table {
+    width: 100%;
+    margin-top: 2%;
+}
+
+td, th {
+    width: 25%;
+}
+
+th.mat-header-cell {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: $primary;
+    border-bottom-color: $primary;
+    border-bottom-width: 2px;
+}
+
+td.mat-cell{
+    color: #222222;
+}
+
+.td-names{
+    color: $primary;
+}
+
+.actions-buttons{
+    display: flex;
+}
+
+.p-bar{
+    width: 70%;
+}

@@ -1,0 +1,36 @@
+"filename", "language", "JSON", "JSON with Comments", "Markdown", "SCSS", "TypeScript", "HTML", "JavaScript", "comment", "blank", "total"
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\README-Angular.md", "Markdown", 0, 0, 14, 0, 0, 0, 0, 0, 14, 28
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\README.md", "Markdown", 0, 0, 14, 0, 0, 0, 0, 0, 15, 29
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\angular.json", "JSON", 113, 0, 0, 0, 0, 0, 0, 0, 1, 114
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\karma.conf.js", "JavaScript", 0, 0, 0, 0, 0, 0, 37, 6, 2, 45
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\package-lock.json", "JSON", 20248, 0, 0, 0, 0, 0, 0, 0, 1, 20249
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\package.json", "JSON", 41, 0, 0, 0, 0, 0, 0, 0, 0, 41
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\app-routing.module.ts", "TypeScript", 0, 0, 0, 0, 14, 0, 0, 0, 3, 17
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\app.component.html", "HTML", 0, 0, 0, 0, 0, 11, 0, 0, 1, 12
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\app.component.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\app.component.spec.ts", "TypeScript", 0, 0, 0, 0, 31, 0, 0, 0, 5, 36
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\app.component.ts", "TypeScript", 0, 0, 0, 0, 9, 0, 0, 0, 2, 11
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\app.module.ts", "TypeScript", 0, 0, 0, 0, 46, 0, 0, 0, 3, 49
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\footer\footer.component.html", "HTML", 0, 0, 0, 0, 0, 3, 0, 0, 1, 4
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\footer\footer.component.scss", "SCSS", 0, 0, 0, 9, 0, 0, 0, 0, 3, 12
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\footer\footer.component.ts", "TypeScript", 0, 0, 0, 0, 11, 0, 0, 0, 5, 16
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\header\header.component.html", "HTML", 0, 0, 0, 0, 0, 6, 0, 0, 1, 7
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\header\header.component.scss", "SCSS", 0, 0, 0, 12, 0, 0, 0, 0, 3, 15
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\header\header.component.ts", "TypeScript", 0, 0, 0, 0, 11, 0, 0, 0, 5, 16
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\window-dialog\window-dialog.component.html", "HTML", 0, 0, 0, 0, 0, 21, 0, 0, 1, 22
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\window-dialog\window-dialog.component.scss", "SCSS", 0, 0, 0, 18, 0, 0, 0, 0, 5, 23
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\shared\window-dialog\window-dialog.component.ts", "TypeScript", 0, 0, 0, 0, 27, 0, 0, 0, 6, 33
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\views\home\home.component.html", "HTML", 0, 0, 0, 0, 0, 47, 0, 0, 10, 57
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\views\home\home.component.scss", "SCSS", 0, 0, 0, 28, 0, 0, 0, 0, 9, 37
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\app\views\home\home.component.ts", "TypeScript", 0, 0, 0, 0, 86, 0, 0, 0, 12, 98
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\environments\environment.prod.ts", "TypeScript", 0, 0, 0, 0, 3, 0, 0, 0, 1, 4
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\environments\environment.ts", "TypeScript", 0, 0, 0, 0, 3, 0, 0, 11, 3, 17
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\index.html", "HTML", 0, 0, 0, 0, 0, 16, 0, 0, 1, 17
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\main.ts", "TypeScript", 0, 0, 0, 0, 9, 0, 0, 0, 4, 13
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\polyfills.ts", "TypeScript", 0, 0, 0, 0, 1, 0, 0, 47, 6, 54
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\styles.scss", "SCSS", 0, 0, 0, 14, 0, 0, 0, 1, 5, 20
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\src\test.ts", "TypeScript", 0, 0, 0, 0, 18, 0, 0, 4, 5, 27
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\tsconfig.app.json", "JSON", 14, 0, 0, 0, 0, 0, 0, 1, 1, 16
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\tsconfig.json", "JSON with Comments", 0, 32, 0, 0, 0, 0, 0, 1, 1, 34
+"d:\Documentos\Old PC\Bloco 8\TCC2\Applications\crud-angular\tsconfig.spec.json", "JSON", 17, 0, 0, 0, 0, 0, 0, 1, 1, 19
+"Total", "-", 20433, 32, 28, 81, 269, 104, 37, 72, 137, 21193

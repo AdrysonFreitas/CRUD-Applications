@@ -1,0 +1,109 @@
+Run #1
+- Angular - CPU Use To Start: 17.9
+- Angular - Time To Load: 485 ms
+- Angular - Time To Paint First Contenful Composite: 384 ms
+- Angular - Memory In Screenshot: 20.26 MB
+
+- React - CPU Use To Start: 14
+- React - Time To Start: 411 ms
+- React - Time To Paint First Contenful Composite: 538 ms
+- React - Memory In Screenshot: 9.01 MB
+
+Run #2
+- Angular - CPU Use To Start: 12.7
+- Angular - Time To Start: 445 ms
+- Angular - Time To Paint First Contenful Composite: 410 ms
+- Angular - Memory In Screenshot: 19.39 MB
+
+- React - CPU Use To Start: 15.2
+- React - Time To Start: 337 ms
+- React - Time To Paint First Contenful Composite: 478 ms
+- React - Memory In Screenshot: 6.75 MB
+
+Run #3
+- Angular - CPU Use To Start: 13.8
+- Angular - Time To Start: 372 ms
+- Angular - Time To Paint First Contenful Composite: 318 ms
+- Angular - Memory In Screenshot: 19.12 MB
+
+- React - CPU Use To Start: 13.1
+- React - Time To Start: 315 MB
+- React - Time To Paint First Contenful Composite: 431 MB
+- React - Memory In Screenshot: 12.95 MB
+
+Run #4
+- Angular - CPU Use To Start: 11.2
+- Angular - Time To Start: 351 ms
+- Angular - Time To Paint First Contenful Composite: 316 ms
+- Angular - Memory In Screenshot: 21.19 MB
+
+- React - CPU Use To Start: 12.1
+- React - Time To Start: 329 ms
+- React - Time To Paint First Contenful Composite: 448 ms
+- React - Memory In Screenshot: 12.97 MB
+
+Run #5
+- Angular - CPU Use To Start: 13.3
+- Angular - Time To Start: 363 ms
+- Angular - Time To Paint First Contenful Composite: 319 ms
+- Angular - Memory In Screenshot: 19.47 MB
+
+- React - CPU Use To Start: 8.6
+- React - Time To Start: 235 ms
+- React - Time To Paint First Contenful Composite: 326 ms
+- React - Memory In Screenshot: 13.03 MB
+
+Run #6
+- Angular - CPU Use To Start: 14
+- Angular - Time To Start: 347 ms
+- Angular - Time To Paint First Contenful Composite: 304 ms
+- Angular - Memory In Screenshot: 19.12 MB
+
+- React - CPU Use To Start: 8.2
+- React - Time To Start: 214 ms
+- React - Time To Paint First Contenful Composite: 309 ms
+- React - Memory In Screenshot: 13.04 MB
+
+Run #7
+- Angular - CPU Use To Start: 14.5
+- Angular - Time To Start: 353 ms
+- Angular - Time To Paint First Contenful Composite: 306 ms
+- Angular - Memory In Screenshot: 19.39 MB
+
+- React - CPU Use To Start: 7.1
+- React - Time To Start: 270 ms
+- React - Time To Paint First Contenful Composite: 466 ms
+- React - Memory In Screenshot: 12.90
+
+Run #8
+- Angular - CPU Use To Start: 14.3
+- Angular - Time To Start: 444 ms
+- Angular - Time To Paint First Contenful Composite: 388 ms
+- Angular - Memory In Screenshot: 19.37 MB
+
+- React - CPU Use To Start: 9.8
+- React - Time To Start: 233 ms
+- React - Time To Paint First Contenful Composite: 328 ms
+- React - Memory In Screenshot: 12.89 MB
+
+Run #9
+- Angular - CPU Use To Start: 13.3
+- Angular - Time To Start: 340 ms
+- Angular - Time To Paint First Contenful Composite: 296 ms
+- Angular - Memory In Screenshot: 19.12 MB
+
+- React - CPU Use To Start: 11
+- React - Time To Start: 267 ms
+- React - Time To Paint First Contenful Composite: 222 ms
+- React - Memory In Screenshot: 12.83 MB
+
+Run #10
+- Angular - CPU Use To Start: 14.4
+- Angular - Time To Start: 348 ms
+- Angular - Time To Paint First Contenful Composite: 314 ms
+- Angular - Memory In Screenshot: 19.03 MB
+
+- React - CPU Use To Start: 11.4
+- React - Time To Start: 282 ms
+- React - Time To Paint First Contenful Composite: 279 ms
+- React - Memory In Screenshot: 12.98 MB
