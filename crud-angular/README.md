@@ -25,4 +25,3 @@ To learn about Angular Material UI used in the project, check [Angular Material]
 ## Authors
 
 - [@AdrysonFreitas](https://www.github.com/AdrysonFreitas)
-
