@@ -7,8 +7,8 @@ Feel free to use it as you like.
 ## Useful Files
 Some useful files with the metrics results from the research. You can find them in the [main](https://github.com/AdrysonFreitas/CRUD-Applications/) folder.
 
-### [Runs.txt](https://github.com/AdrysonFreitas/CRUD-Applications/main/Runs.txt)
+### [Runs.txt](https://github.com/AdrysonFreitas/CRUD-Applications/blob/main/Runs.txt)
 It has all the data collected from the 10 runs from the two frameworks
 
-### [Metrics Result.pdf](https://github.com/AdrysonFreitas/CRUD-Applications/main/Metrics-Results.pdf)
+### [Metrics Result.pdf](https://github.com/AdrysonFreitas/CRUD-Applications/blob/main/Metrics-Results.pdf)
 It has all the data collected from the 10 runs, but organized in tables and graphs for a better visualization.
